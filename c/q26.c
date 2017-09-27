@@ -6,7 +6,7 @@ int main(void){
   printf("Informe a quantidade: ");
   scanf("%d", &n);
 
-  while(i < n){
+  while(i <= n){
     t = t + (i * i);
     i++;
   }
