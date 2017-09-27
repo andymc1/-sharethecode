@@ -1,2 +1,2 @@
-# -sharecode
+# #sharecode
 ajuda ae
